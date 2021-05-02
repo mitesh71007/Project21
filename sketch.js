@@ -23,7 +23,7 @@ function draw() {
   background("black");  
 
   
-} 
+
 
 if(hasCollided(bullet, wall)) 
 {
